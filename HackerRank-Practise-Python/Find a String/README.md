@@ -6,7 +6,7 @@ In this challenge, the user enters a string and a substring. You have to print t
 
 The first line of input contains the original string. The next line contains the substring.
 
-**Constraints**
+**Constraints**<br>
 ![Constraints](constraints.PNG?raw=true "Constraints")
 
 Each character in the string is an ascii character.
